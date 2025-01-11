@@ -1,5 +1,5 @@
 # 💫 About Me:
-About Me:<br>🛡️ I’m currently working on:<br>Exploring the fascinating world of Cybersecurity while sharpening my programming skills.<br><br>🛠️ I’m looking for help with:<br>Advanced Cybersecurity techniques and real-world deployment strategies.<br><br>🌱 I’m currently learning:<br>Cutting-edge security measures, Python, and enhancing my expertise in MySQL and PostgreSQL.<br><br>💻 Languages I know:<br>Python 🐍 (my favorite!)<br>C, C++ 📜<br>Java ☕<br>SQL<br><br>⚡ Fun fact:<br>Ctrl + C and Ctrl + V are my favorite keys—they’ve saved my life countless times! 😄
+<br>🛡️ I’m currently working on:<br>Exploring the fascinating world of Cybersecurity while sharpening my programming skills.<br><br>🛠️ I’m looking for help with:<br>Advanced Cybersecurity techniques and real-world deployment strategies.<br><br>🌱 I’m currently learning:<br>Cutting-edge security measures, Python, and enhancing my expertise in MySQL and PostgreSQL.<br><br>💻 Languages I know:<br>Python 🐍 (my favorite!)<br>C, C++ 📜<br>Java ☕<br>SQL<br><br>⚡ Fun fact:<br>Ctrl + C and Ctrl + V are my favorite keys—they’ve saved my life countless times! 😄
 
 
 ## 🌐 Socials:
